@@ -1,0 +1,40 @@
+@font-face{
+    font-family: "inter";
+    src: url(Inter.ttf);
+}
+.h1{
+    margin-left: 430px;
+    font-family: "inter";
+    font-size: 20px;
+}
+.p1{
+    max-width: 578px;
+    font-family: "inter";
+    margin-left: 430px;
+}
+.h2{
+    font-family: "inter";
+    font-size: 20px;
+}
+.p2{
+    max-width: 578px;
+    font-family: "inter";
+}
+.h3{
+    margin-left: 818px;
+    font-family: "inter";
+    font-size: 20px;
+}
+.p3{
+    max-width: 578px;
+    font-family: "inter";
+    margin-left: 818px;
+}
+.h4{
+    font-family: "inter";
+    font-size: 20px;
+}
+.p4{
+    max-width: 1355px;
+    font-family: "inter";
+}
